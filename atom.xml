@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://stormghost.github.io/atom.xml" rel="self"/>
+  <link href="http://stormghost.github.io/"/>
+  <updated>2016-03-21T17:26:56+08:00</updated>
+  <id>http://stormghost.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[史多萌的博客]]></title>
+    <link href="http://stormghost.github.io/blog/2016/03/21/shi-duo-meng-de-bo-ke/"/>
+    <updated>2016-03-21T16:47:16+08:00</updated>
+    <id>http://stormghost.github.io/blog/2016/03/21/shi-duo-meng-de-bo-ke</id>
+    <content type="html"><![CDATA[<h2>史多萌的第一篇博客</h2>
+]]></content>
+  </entry>
+  
+</feed>
